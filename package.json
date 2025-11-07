@@ -1,0 +1,23 @@
+{
+  "name": "sheer-tech-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samaocarpenter/sheer-tech-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samaocarpenter/sheer-tech-challenge/issues"
+  },
+  "homepage": "https://github.com/samaocarpenter/sheer-tech-challenge#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0",
+    "typescript": "^4.3.2"
+  }
+}
