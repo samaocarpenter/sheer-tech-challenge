@@ -1,0 +1,803 @@
+{
+    "Aciclovir (Zovirax)": {
+        "link": "/medicines/aciclovir/"
+    },
+    "Acrivastine": {
+        "link": "/medicines/acrivastine/"
+    },
+    "Adalimumab": {
+        "link": "/medicines/adalimumab/"
+    },
+    "Alendronic acid": {
+        "link": "/medicines/alendronic-acid/"
+    },
+    "Allopurinol": {
+        "link": "/medicines/allopurinol/"
+    },
+    "Alogliptin": {
+        "link": "/medicines/alogliptin/"
+    },
+    "Amitriptyline for depression": {
+        "link": "/medicines/amitriptyline-for-depression/"
+    },
+    "Amitriptyline for pain and migraine": {
+        "link": "/medicines/amitriptyline-for-pain/"
+    },
+    "Amlodipine": {
+        "link": "/medicines/amlodipine/"
+    },
+    "Amoxicillin": {
+        "link": "/medicines/amoxicillin/"
+    },
+    "Anastrozole": {
+        "link": "/medicines/anastrozole/"
+    },
+    "Antacids": {
+        "link": "/medicines/antacids/"
+    },
+    "Antibiotics": {
+        "link": "/medicines/antibiotics/"
+    },
+    "Anticoagulant medicines": {
+        "link": "/medicines/anticoagulants/"
+    },
+    "Antidepressants": {
+        "link": "/medicines/antidepressants/"
+    },
+    "Antifungal medicines": {
+        "link": "/medicines/antifungal-medicines/"
+    },
+    "Antihistamines": {
+        "link": "/medicines/antihistamines/"
+    },
+    "Apixaban": {
+        "link": "/medicines/apixaban/"
+    },
+    "Aripiprazole": {
+        "link": "/medicines/aripiprazole/"
+    },
+    "Aspirin for pain relief": {
+        "link": "/medicines/aspirin-for-pain-relief/"
+    },
+    "Atenolol": {
+        "link": "/medicines/atenolol/"
+    },
+    "Atorvastatin": {
+        "link": "/medicines/atorvastatin/"
+    },
+    "Azathioprine": {
+        "link": "/medicines/azathioprine/"
+    },
+    "Azithromycin": {
+        "link": "/medicines/azithromycin/"
+    },
+    "Baclofen": {
+        "link": "/medicines/baclofen/"
+    },
+    "Beclometasone inhalers": {
+        "link": "/medicines/beclometasone-inhalers/"
+    },
+    "Beclometasone nasal spray": {
+        "link": "/medicines/beclometasone-nasal-spray/"
+    },
+    "Beclometasone skin cream": {
+        "link": "/medicines/beclometasone-skin-creams/"
+    },
+    "Bendroflumethiazide": {
+        "link": "/medicines/bendroflumethiazide/"
+    },
+    "Benzoyl peroxide": {
+        "link": "/medicines/benzoyl-peroxide/"
+    },
+    "Benzydamine": {
+        "link": "/medicines/benzydamine/"
+    },
+    "Beta blockers": {
+        "link": "/medicines/beta-blockers/"
+    },
+    "Betahistine": {
+        "link": "/medicines/betahistine/"
+    },
+    "Betamethasone for eyes, ears and nose": {
+        "link": "/medicines/betamethasone-eyes-ears-and-nose/"
+    },
+    "Betamethasone for skin": {
+        "link": "/medicines/betamethasone-skin/"
+    },
+    "Bimatoprost (Lumigan)": {
+        "link": "/medicines/bimatoprost/"
+    },
+    "Bisacodyl": {
+        "link": "/medicines/bisacodyl/"
+    },
+    "Bisoprolol": {
+        "link": "/medicines/bisoprolol/"
+    },
+    "Brinzolamide": {
+        "link": "/medicines/brinzolamide/"
+    },
+    "Budesonide inhalers": {
+        "link": "/medicines/budesonide-inhalers/"
+    },
+    "Budesonide nasal spray": {
+        "link": "/medicines/budesonide-nasal-spray/"
+    },
+    "Budesonide rectal foam and enemas": {
+        "link": "/medicines/budesonide-rectal-foam-and-enemas/"
+    },
+    "Bumetanide": {
+        "link": "/medicines/bumetanide/"
+    },
+    "Buprenorphine for pain": {
+        "link": "/medicines/buprenorphine-for-pain/"
+    },
+    "Buscopan (hyoscine butylbromide)": {
+        "link": "/medicines/buscopan-hyoscine-butylbromide/"
+    },
+    "Calcipotriol": {
+        "link": "/medicines/calcipotriol/"
+    },
+    "Candesartan": {
+        "link": "/medicines/candesartan/"
+    },
+    "Carbamazepine": {
+        "link": "/medicines/carbamazepine/"
+    },
+    "Carbimazole": {
+        "link": "/medicines/carbimazole/"
+    },
+    "Carbocisteine": {
+        "link": "/medicines/carbocisteine/"
+    },
+    "Carmellose sodium eye drops": {
+        "link": "/medicines/carmellose-sodium/"
+    },
+    "Carvedilol": {
+        "link": "/medicines/carvedilol/"
+    },
+    "Cefalexin": {
+        "link": "/medicines/cefalexin/"
+    },
+    "Cetirizine": {
+        "link": "/medicines/cetirizine/"
+    },
+    "Chloramphenicol": {
+        "link": "/medicines/chloramphenicol/"
+    },
+    "Chlorhexidine": {
+        "link": "/medicines/chlorhexidine/"
+    },
+    "Chlorphenamine (Piriton)": {
+        "link": "/medicines/chlorphenamine-including-piriton/"
+    },
+    "Cinnarizine": {
+        "link": "/medicines/cinnarizine/"
+    },
+    "Ciprofloxacin": {
+        "link": "/medicines/ciprofloxacin/"
+    },
+    "Citalopram": {
+        "link": "/medicines/citalopram/"
+    },
+    "Clarithromycin": {
+        "link": "/medicines/clarithromycin/"
+    },
+    "Clobetasol": {
+        "link": "/medicines/clobetasol/"
+    },
+    "Clobetasone": {
+        "link": "/medicines/clobetasone/"
+    },
+    "Clonazepam": {
+        "link": "/medicines/clonazepam/"
+    },
+    "Clonidine": {
+        "link": "/medicines/clonidine/"
+    },
+    "Clopidogrel": {
+        "link": "/medicines/clopidogrel/"
+    },
+    "Clotrimazole cream, spray and solution": {
+        "link": "/medicines/clotrimazole/"
+    },
+    "Clotrimazole for thrush (Canesten)": {
+        "link": "/medicines/clotrimazole-for-thrush/"
+    },
+    "Co-amoxiclav": {
+        "link": "/medicines/co-amoxiclav/"
+    },
+    "Co-beneldopa": {
+        "link": "/medicines/co-beneldopa/"
+    },
+    "Co-careldopa": {
+        "link": "/medicines/co-careldopa/"
+    },
+    "Co-codamol for adults": {
+        "link": "/medicines/co-codamol-for-adults/"
+    },
+    "Co-codamol for children": {
+        "link": "/medicines/co-codamol-for-children/"
+    },
+    "Co-dydramol": {
+        "link": "/medicines/co-dydramol/"
+    },
+    "Codeine": {
+        "link": "/medicines/codeine/"
+    },
+    "Colchicine": {
+        "link": "/medicines/colchicine/"
+    },
+    "Colecalciferol": {
+        "link": "/medicines/colecalciferol/"
+    },
+    "Continuous combined hormone replacement therapy (HRT) tablets, capsules and patches": {
+        "link": "/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/"
+    },
+    "Contraceptive injections (medroxyprogesterone)": {
+        "link": "/medicines/contraceptive-injections-medroxyprogesterone/"
+    },
+    "Cyanocobalamin": {
+        "link": "/medicines/cyanocobalamin/"
+    },
+    "Cyclizine": {
+        "link": "/medicines/cyclizine/"
+    },
+    "Dapagliflozin": {
+        "link": "/medicines/dapagliflozin/"
+    },
+    "Decongestants": {
+        "link": "/medicines/decongestants/"
+    },
+    "Dexamethasone eye drops": {
+        "link": "/medicines/dexamethasone-eye-drops/"
+    },
+    "Dexamethasone tablets and liquid": {
+        "link": "/medicines/dexamethasone-tablets-and-liquid/"
+    },
+    "Diazepam": {
+        "link": "/medicines/diazepam/"
+    },
+    "Diclofenac": {
+        "link": "/medicines/diclofenac/"
+    },
+    "Digoxin": {
+        "link": "/medicines/digoxin/"
+    },
+    "Dihydrocodeine": {
+        "link": "/medicines/dihydrocodeine/"
+    },
+    "Diltiazem": {
+        "link": "/medicines/diltiazem/"
+    },
+    "Diphenhydramine": {
+        "link": "/medicines/diphenhydramine/"
+    },
+    "Dipyridamole": {
+        "link": "/medicines/dipyridamole/"
+    },
+    "Docusate": {
+        "link": "/medicines/docusate/"
+    },
+    "Domperidone": {
+        "link": "/medicines/domperidone/"
+    },
+    "Donepezil": {
+        "link": "/medicines/donepezil/"
+    },
+    "Doxazosin": {
+        "link": "/medicines/doxazosin/"
+    },
+    "Doxycycline": {
+        "link": "/medicines/doxycycline/"
+    },
+    "Duloxetine": {
+        "link": "/medicines/duloxetine/"
+    },
+    "Edoxaban": {
+        "link": "/medicines/edoxaban/"
+    },
+    "Empagliflozin": {
+        "link": "/medicines/empagliflozin/"
+    },
+    "Enalapril": {
+        "link": "/medicines/enalapril/"
+    },
+    "Eplerenone": {
+        "link": "/medicines/eplerenone/"
+    },
+    "Erythromycin": {
+        "link": "/medicines/erythromycin/"
+    },
+    "Escitalopram": {
+        "link": "/medicines/escitalopram/"
+    },
+    "Esomeprazole": {
+        "link": "/medicines/esomeprazole/"
+    },
+    "Ezetimibe": {
+        "link": "/medicines/ezetimibe/"
+    },
+    "Felodipine": {
+        "link": "/medicines/felodipine/"
+    },
+    "Fentanyl": {
+        "link": "/medicines/fentanyl/"
+    },
+    "Ferrous fumarate": {
+        "link": "/medicines/ferrous-fumarate/"
+    },
+    "Ferrous sulfate": {
+        "link": "/medicines/ferrous-sulfate/"
+    },
+    "Fexofenadine": {
+        "link": "/medicines/fexofenadine/"
+    },
+    "Finasteride": {
+        "link": "/medicines/finasteride/"
+    },
+    "Flucloxacillin": {
+        "link": "/medicines/flucloxacillin/"
+    },
+    "Fluconazole": {
+        "link": "/medicines/fluconazole/"
+    },
+    "Fluoxetine (Prozac)": {
+        "link": "/medicines/fluoxetine-prozac/"
+    },
+    "Fluticasone inhalers": {
+        "link": "/medicines/fluticasone-inhalers/"
+    },
+    "Fluticasone nasal spray and drops": {
+        "link": "/medicines/fluticasone-nasal-spray-and-drops/"
+    },
+    "Fluticasone skin creams": {
+        "link": "/medicines/fluticasone-skin-creams/"
+    },
+    "Folic acid": {
+        "link": "/medicines/folic-acid/"
+    },
+    "Furosemide": {
+        "link": "/medicines/furosemide/"
+    },
+    "Fusidic acid": {
+        "link": "/medicines/fusidic-acid/"
+    },
+    "Fybogel (ispaghula husk)": {
+        "link": "/medicines/fybogel-ispaghula-husk/"
+    },
+    "Gabapentin": {
+        "link": "/medicines/gabapentin/"
+    },
+    "Gaviscon": {
+        "link": "/medicines/gaviscon/"
+    },
+    "Gliclazide": {
+        "link": "/medicines/gliclazide/"
+    },
+    "Glyceryl trinitrate (GTN)": {
+        "link": "/medicines/glyceryl-trinitrate-gtn/"
+    },
+    "Haloperidol": {
+        "link": "/medicines/haloperidol/"
+    },
+    "Hormone replacement therapy (HRT)": {
+        "link": "/medicines/hormone-replacement-therapy-hrt/"
+    },
+    "Hydrocortisone": {
+        "link": "/medicines/hydrocortisone/"
+    },
+    "Hydrocortisone buccal tablets": {
+        "link": "/medicines/hydrocortisone-buccal-tablets/"
+    },
+    "Hydrocortisone for piles and itchy bottom": {
+        "link": "/medicines/hydrocortisone-for-piles-and-itchy-bottom/"
+    },
+    "Hydrocortisone for skin": {
+        "link": "/medicines/hydrocortisone-for-skin/"
+    },
+    "Hydrocortisone injections": {
+        "link": "/medicines/hydrocortisone-injections/"
+    },
+    "Hydrocortisone rectal foam": {
+        "link": "/medicines/hydrocortisone-rectal-foam/"
+    },
+    "Hydrocortisone tablets": {
+        "link": "/medicines/hydrocortisone-tablets/"
+    },
+    "Hydroxocobalamin": {
+        "link": "/medicines/hydroxocobalamin/"
+    },
+    "Hydroxychloroquine": {
+        "link": "/medicines/hydroxychloroquine/"
+    },
+    "Hyoscine hydrobromide (Kwells and Joy-Rides)": {
+        "link": "/medicines/hyoscine-hydrobromide/"
+    },
+    "Ibuprofen and codeine": {
+        "link": "/medicines/ibuprofen-and-codeine-nurofen-plus/"
+    },
+    "Ibuprofen for adults (Nurofen)": {
+        "link": "/medicines/ibuprofen-for-adults/"
+    },
+    "Ibuprofen for children": {
+        "link": "/medicines/ibuprofen-for-children/"
+    },
+    "Indapamide": {
+        "link": "/medicines/indapamide/"
+    },
+    "Insulin": {
+        "link": "/medicines/insulin/"
+    },
+    "Irbesartan": {
+        "link": "/medicines/irbesartan/"
+    },
+    "Isosorbide mononitrate and isosorbide dinitrate": {
+        "link": "/medicines/isosorbide-mononitrate-dinitrate/"
+    },
+    "Isotretinoin capsules (Roaccutane)": {
+        "link": "/medicines/isotretinoin-capsules/"
+    },
+    "Isotretinoin gel (Isotrex)": {
+        "link": "/medicines/isotretinoin-gel/"
+    },
+    "Ketoconazole": {
+        "link": "/medicines/ketoconazole/"
+    },
+    "Lactulose": {
+        "link": "/medicines/lactulose/"
+    },
+    "Lamotrigine": {
+        "link": "/medicines/lamotrigine/"
+    },
+    "Lansoprazole": {
+        "link": "/medicines/lansoprazole/"
+    },
+    "Latanoprost": {
+        "link": "/medicines/latanoprost/"
+    },
+    "Laxatives": {
+        "link": "/medicines/laxatives/"
+    },
+    "Lercanidipine": {
+        "link": "/medicines/lercanidipine/"
+    },
+    "Letrozole": {
+        "link": "/medicines/letrozole/"
+    },
+    "Levetiracetam": {
+        "link": "/medicines/levetiracetam/"
+    },
+    "Levothyroxine": {
+        "link": "/medicines/levothyroxine/"
+    },
+    "Lidocaine skin cream": {
+        "link": "/medicines/lidocaine-skin-cream/"
+    },
+    "Linagliptin": {
+        "link": "/medicines/linagliptin/"
+    },
+    "Lisinopril": {
+        "link": "/medicines/lisinopril/"
+    },
+    "Lithium": {
+        "link": "/medicines/lithium/"
+    },
+    "Loperamide (Imodium)": {
+        "link": "/medicines/loperamide/"
+    },
+    "Loratadine (Clarityn)": {
+        "link": "/medicines/loratadine/"
+    },
+    "Lorazepam": {
+        "link": "/medicines/lorazepam/"
+    },
+    "Losartan": {
+        "link": "/medicines/losartan/"
+    },
+    "Low-dose aspirin": {
+        "link": "/medicines/low-dose-aspirin/"
+    },
+    "Lymecycline": {
+        "link": "/medicines/lymecycline/"
+    },
+    "Macrogol": {
+        "link": "/medicines/macrogol/"
+    },
+    "Mebendazole": {
+        "link": "/medicines/mebendazole/"
+    },
+    "Mebeverine": {
+        "link": "/medicines/mebeverine/"
+    },
+    "Medical cannabis (and cannabis oils)": {
+        "link": "/medicines/medical-cannabis/"
+    },
+    "Medroxyprogesterone tablets": {
+        "link": "/medicines/medroxyprogesterone-tablets/"
+    },
+    "Melatonin": {
+        "link": "/medicines/melatonin/"
+    },
+    "Memantine": {
+        "link": "/medicines/memantine/"
+    },
+    "Mesalazine": {
+        "link": "/medicines/mesalazine/"
+    },
+    "Metformin": {
+        "link": "/medicines/metformin/"
+    },
+    "Methadone": {
+        "link": "/medicines/methadone/"
+    },
+    "Methotrexate": {
+        "link": "/medicines/methotrexate/"
+    },
+    "Methylphenidate for adults": {
+        "link": "/medicines/methylphenidate-adults/"
+    },
+    "Methylphenidate for children": {
+        "link": "/medicines/methylphenidate-children/"
+    },
+    "Metoclopramide": {
+        "link": "/medicines/metoclopramide/"
+    },
+    "Metoprolol": {
+        "link": "/medicines/metoprolol/"
+    },
+    "Metronidazole": {
+        "link": "/medicines/metronidazole/"
+    },
+    "Mirabegron": {
+        "link": "/medicines/mirabegron/"
+    },
+    "Mirtazapine": {
+        "link": "/medicines/mirtazapine/"
+    },
+    "Mometasone for skin": {
+        "link": "/medicines/mometasone-for-skin/"
+    },
+    "Mometasone inhalers": {
+        "link": "/medicines/mometasone-inhaler/"
+    },
+    "Mometasone nasal spray": {
+        "link": "/medicines/mometasone-nasal-spray/"
+    },
+    "Montelukast": {
+        "link": "/medicines/montelukast/"
+    },
+    "Morphine": {
+        "link": "/medicines/morphine/"
+    },
+    "Naproxen": {
+        "link": "/medicines/naproxen/"
+    },
+    "Nefopam": {
+        "link": "/medicines/nefopam/"
+    },
+    "Nicorandil": {
+        "link": "/medicines/nicorandil/"
+    },
+    "Nifedipine": {
+        "link": "/medicines/nifedipine/"
+    },
+    "Nitrofurantoin": {
+        "link": "/medicines/nitrofurantoin/"
+    },
+    "Nortriptyline": {
+        "link": "/medicines/nortriptyline/"
+    },
+    "NSAIDs": {
+        "link": "/medicines/nsaids/"
+    },
+    "Nystatin": {
+        "link": "/medicines/nystatin/"
+    },
+    "Oestrogen tablets, patches, gel and spray": {
+        "link": "/medicines/hormone-replacement-therapy-hrt/oestrogen-tablets-patches-gel-and-spray/"
+    },
+    "Olanzapine": {
+        "link": "/medicines/olanzapine/"
+    },
+    "Omeprazole": {
+        "link": "/medicines/omeprazole/"
+    },
+    "Oxybutynin": {
+        "link": "/medicines/oxybutynin/"
+    },
+    "Oxycodone": {
+        "link": "/medicines/oxycodone/"
+    },
+    "Pantoprazole": {
+        "link": "/medicines/pantoprazole/"
+    },
+    "Paracetamol for adults": {
+        "link": "/medicines/paracetamol-for-adults/"
+    },
+    "Paracetamol for children (Calpol)": {
+        "link": "/medicines/paracetamol-for-children/"
+    },
+    "Paroxetine": {
+        "link": "/medicines/paroxetine/"
+    },
+    "Peppermint oil": {
+        "link": "/medicines/peppermint-oil/"
+    },
+    "Pepto-Bismol (bismuth subsalicylate)": {
+        "link": "/medicines/pepto-bismol/"
+    },
+    "Perindopril": {
+        "link": "/medicines/perindopril/"
+    },
+    "Phenoxymethylpenicillin": {
+        "link": "/medicines/phenoxymethylpenicillin/"
+    },
+    "Pravastatin": {
+        "link": "/medicines/pravastatin/"
+    },
+    "Pre-Exposure Prophylaxis (PrEP)": {
+        "link": "/medicines/pre-exposure-prophylaxis-prep/"
+    },
+    "Prednisolone tablets and liquid": {
+        "link": "/medicines/prednisolone/"
+    },
+    "Pregabalin": {
+        "link": "/medicines/pregabalin/"
+    },
+    "Prochlorperazine": {
+        "link": "/medicines/prochlorperazine/"
+    },
+    "Promethazine (Phenergan)": {
+        "link": "/medicines/promethazine/"
+    },
+    "Propranolol": {
+        "link": "/medicines/propranolol/"
+    },
+    "Pseudoephedrine (Sudafed)": {
+        "link": "/medicines/pseudoephedrine/"
+    },
+    "Quetiapine": {
+        "link": "/medicines/quetiapine/"
+    },
+    "Ramipril": {
+        "link": "/medicines/ramipril/"
+    },
+    "Ranitidine": {
+        "link": "/medicines/ranitidine/"
+    },
+    "Risperidone": {
+        "link": "/medicines/risperidone/"
+    },
+    "Rivaroxaban": {
+        "link": "/medicines/rivaroxaban/"
+    },
+    "Ropinirole": {
+        "link": "/medicines/ropinirole/"
+    },
+    "Rosuvastatin": {
+        "link": "/medicines/rosuvastatin/"
+    },
+    "Salbutamol inhalers": {
+        "link": "/medicines/salbutamol-inhaler/"
+    },
+    "Senna": {
+        "link": "/medicines/senna/"
+    },
+    "Sequential combined hormone replacement therapy (HRT) tablets and patches": {
+        "link": "/medicines/hormone-replacement-therapy-hrt/sequential-combined-hormone-replacement-therapy-hrt-tablets-and-patches/"
+    },
+    "Sertraline": {
+        "link": "/medicines/sertraline/"
+    },
+    "Sildenafil (Viagra)": {
+        "link": "/medicines/sildenafil-viagra/"
+    },
+    "Simeticone": {
+        "link": "/medicines/simeticone/"
+    },
+    "Simvastatin": {
+        "link": "/medicines/simvastatin/"
+    },
+    "Sitagliptin": {
+        "link": "/medicines/sitagliptin/"
+    },
+    "Sodium valproate": {
+        "link": "/medicines/sodium-valproate/"
+    },
+    "Solifenacin": {
+        "link": "/medicines/solifenacin/"
+    },
+    "Sotalol": {
+        "link": "/medicines/sotalol/"
+    },
+    "Spironolactone": {
+        "link": "/medicines/spironolactone/"
+    },
+    "Statins": {
+        "link": "/medicines/statins/"
+    },
+    "Steroids": {
+        "link": "/medicines/steroids/"
+    },
+    "Sulfasalazine": {
+        "link": "/medicines/sulfasalazine/"
+    },
+    "Sumatriptan": {
+        "link": "/medicines/sumatriptan/"
+    },
+    "Tadalafil": {
+        "link": "/medicines/tadalafil/"
+    },
+    "Tamsulosin": {
+        "link": "/medicines/tamsulosin/"
+    },
+    "Terbinafine": {
+        "link": "/medicines/terbinafine/"
+    },
+    "Thiamine (vitamin B1)": {
+        "link": "/medicines/thiamine-vitamin-b1/"
+    },
+    "Tibolone": {
+        "link": "/medicines/hormone-replacement-therapy-hrt/tibolone/"
+    },
+    "Ticagrelor": {
+        "link": "/medicines/ticagrelor/"
+    },
+    "Timolol eye drops": {
+        "link": "/medicines/timolol-eye-drops/"
+    },
+    "Tiotropium inhalers": {
+        "link": "/medicines/tiotropium-inhalers/"
+    },
+    "Tolterodine": {
+        "link": "/medicines/tolterodine/"
+    },
+    "Topiramate": {
+        "link": "/medicines/topiramate/"
+    },
+    "Tramadol": {
+        "link": "/medicines/tramadol/"
+    },
+    "Tranexamic acid": {
+        "link": "/medicines/tranexamic-acid/"
+    },
+    "Trastuzumab (Herceptin)": {
+        "link": "/medicines/trastuzumab-herceptin/"
+    },
+    "Trazodone": {
+        "link": "/medicines/trazodone/"
+    },
+    "Trimethoprim": {
+        "link": "/medicines/trimethoprim/"
+    },
+    "Utrogestan (micronised progesterone)": {
+        "link": "/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/"
+    },
+    "Vaginal oestrogen": {
+        "link": "/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/"
+    },
+    "Valproic acid": {
+        "link": "/medicines/valproic-acid/"
+    },
+    "Valsartan": {
+        "link": "/medicines/valsartan/"
+    },
+    "Varenicline": {
+        "link": "/medicines/varenicline/"
+    },
+    "Venlafaxine": {
+        "link": "/medicines/venlafaxine/"
+    },
+    "Verapamil": {
+        "link": "/medicines/verapamil/"
+    },
+    "Warfarin": {
+        "link": "/medicines/warfarin/"
+    },
+    "Zolpidem": {
+        "link": "/medicines/zolpidem/"
+    },
+    "Zopiclone": {
+        "link": "/medicines/zopiclone/"
+    }
+}
