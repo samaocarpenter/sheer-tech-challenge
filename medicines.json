@@ -4,12 +4,27 @@
         "brandNames": [
             "Cymex Ultra",
             "Virasorb"
+        ],
+        "relatedConditions": [
+            "Chickenpox",
+            "Cold sores",
+            "Genital herpes",
+            "Herpes simplex eye infections",
+            "Shingles"
         ]
     },
     "Acrivastine": {
         "link": "https://www.nhs.uk/medicines/acrivastine/",
         "brandNames": [
             "Benadryl Allergy Relief"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Conjunctivitis",
+            "Food allergy",
+            "Hay fever",
+            "Hives",
+            "Insect bites and stings"
         ]
     },
     "Adalimumab": {
@@ -21,6 +36,15 @@
             "Idacio",
             "Imraldi",
             "Yuflyma"
+        ],
+        "relatedConditions": [
+            "Crohn's disease",
+            "Hidradenitis suppurativa (HS)",
+            "Psoriasis",
+            "Psoriatic arthritis",
+            "Rheumatoid arthritis",
+            "Ulcerative colitis",
+            "Uveitis"
         ]
     },
     "Alendronic acid": {
@@ -28,6 +52,9 @@
         "brandNames": [
             "Fosamax",
             "Binosto"
+        ],
+        "relatedConditions": [
+            "Osteoporosis"
         ]
     },
     "Allopurinol": {
@@ -35,33 +62,64 @@
         "brandNames": [
             "Zyloric",
             "Uricto"
+        ],
+        "relatedConditions": [
+            "Gout",
+            "Kidney stones"
         ]
     },
     "Alogliptin": {
         "link": "https://www.nhs.uk/medicines/alogliptin/",
         "brandNames": [
             "Vipidia"
+        ],
+        "relatedConditions": [
+            "Low blood sugar (hypoglycaemia)",
+            "Type 2 diabetes"
         ]
     },
     "Amitriptyline for depression": {
-        "link": "https://www.nhs.uk/medicines/amitriptyline-for-depression/"
+        "link": "https://www.nhs.uk/medicines/amitriptyline-for-depression/",
+        "relatedConditions": [
+            "Depression in adults"
+        ]
     },
     "Amitriptyline for pain and migraine": {
-        "link": "https://www.nhs.uk/medicines/amitriptyline-for-pain/"
+        "link": "https://www.nhs.uk/medicines/amitriptyline-for-pain/",
+        "relatedConditions": [
+            "Migraine"
+        ]
     },
     "Amlodipine": {
         "link": "https://www.nhs.uk/medicines/amlodipine/",
         "brandNames": [
             "Istin"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Heart attack",
+            "High blood pressure (hypertension)",
+            "Raynaud's",
+            "Stroke"
         ]
     },
     "Amoxicillin": {
-        "link": "https://www.nhs.uk/medicines/amoxicillin/"
+        "link": "https://www.nhs.uk/medicines/amoxicillin/",
+        "relatedConditions": [
+            "Chest infection",
+            "Dental abscess",
+            "Ear infections",
+            "Stomach ulcer"
+        ]
     },
     "Anastrozole": {
         "link": "https://www.nhs.uk/medicines/anastrozole/",
         "brandNames": [
             "Arimidex"
+        ],
+        "relatedConditions": [
+            "Breast cancer in women",
+            "Breast cancer in men"
         ]
     },
     "Antacids": {
@@ -89,12 +147,23 @@
         "link": "https://www.nhs.uk/medicines/antihistamines/"
     },
     "Apixaban": {
-        "link": "https://www.nhs.uk/medicines/apixaban/"
+        "link": "https://www.nhs.uk/medicines/apixaban/",
+        "relatedConditions": [
+            "Atrial fibrillation",
+            "DVT (deep vein thrombosis)",
+            "Heart attack",
+            "Pulmonary embolism",
+            "Stroke"
+        ]
     },
     "Aripiprazole": {
         "link": "https://www.nhs.uk/medicines/aripiprazole/",
         "brandNames": [
             "Abilify"
+        ],
+        "relatedConditions": [
+            "Bipolar disorder",
+            "Schizophrenia"
         ]
     },
     "Aspirin for pain relief": {
@@ -102,30 +171,66 @@
         "brandNames": [
             "Anadin",
             "Bonjela gel"
+        ],
+        "relatedConditions": [
+            "Common cold",
+            "Headaches",
+            "Period pain",
+            "Toothache"
         ]
     },
     "Atenolol": {
         "link": "https://www.nhs.uk/medicines/atenolol/",
         "brandNames": [
             "Tenormin"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Arrhythmia",
+            "Heart attack",
+            "Heart failure",
+            "High blood pressure (hypertension)",
+            "Migraine"
         ]
     },
     "Atorvastatin": {
         "link": "https://www.nhs.uk/medicines/atorvastatin/",
         "brandNames": [
             "Lipitor"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Cardiovascular disease",
+            "Heart attack",
+            "Stroke"
         ]
     },
     "Azathioprine": {
         "link": "https://www.nhs.uk/medicines/azathioprine/",
         "brandNames": [
             "Imuran"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Crohn's disease",
+            "Lupus",
+            "Myasthenia gravis",
+            "Rheumatoid arthritis",
+            "Ulcerative colitis"
         ]
     },
     "Azithromycin": {
         "link": "https://www.nhs.uk/medicines/azithromycin/",
         "brandNames": [
             "Zithromax"
+        ],
+        "relatedConditions": [
+            "Chest infection",
+            "Ear infections",
+            "Lyme disease",
+            "Pneumonia",
+            "Sexually transmitted infections (STIs)",
+            "Sinusitis (sinus infection)"
         ]
     },
     "Baclofen": {
@@ -133,10 +238,20 @@
         "brandNames": [
             "Lioresal",
             "Lyflex"
+        ],
+        "relatedConditions": [
+            "Cerebral palsy",
+            "Meningitis",
+            "Motor neurone disease",
+            "Multiple sclerosis"
         ]
     },
     "Beclometasone inhalers": {
-        "link": "https://www.nhs.uk/medicines/beclometasone-inhalers/"
+        "link": "https://www.nhs.uk/medicines/beclometasone-inhalers/",
+        "relatedConditions": [
+            "Asthma",
+            "Chronic obstructive pulmonary disease (COPD)"
+        ]
     },
     "Beclometasone nasal spray": {
         "link": "https://www.nhs.uk/medicines/beclometasone-nasal-spray/",
@@ -144,24 +259,44 @@
             "Beconase",
             "Nasobec",
             "Pollenase"
+        ],
+        "relatedConditions": [
+            "Allergic rhinitis",
+            "Hay fever"
         ]
     },
     "Beclometasone skin cream": {
-        "link": "https://www.nhs.uk/medicines/beclometasone-skin-creams/"
+        "link": "https://www.nhs.uk/medicines/beclometasone-skin-creams/",
+        "relatedConditions": [
+            "Atopic eczema",
+            "Psoriasis"
+        ]
     },
     "Bendroflumethiazide": {
-        "link": "https://www.nhs.uk/medicines/bendroflumethiazide/"
+        "link": "https://www.nhs.uk/medicines/bendroflumethiazide/",
+        "relatedConditions": [
+            "High blood pressure",
+            "Swollen ankles, feet and legs (oedema)"
+        ]
     },
     "Benzoyl peroxide": {
         "link": "https://www.nhs.uk/medicines/benzoyl-peroxide/",
         "brandNames": [
             "Acnecide"
+        ],
+        "relatedConditions": [
+            "Acne"
         ]
     },
     "Benzydamine": {
         "link": "https://www.nhs.uk/medicines/benzydamine/",
         "brandNames": [
             "Difflam"
+        ],
+        "relatedConditions": [
+            "Mouth ulcers",
+            "Sore throat",
+            "Teething"
         ]
     },
     "Beta blockers": {
@@ -171,6 +306,12 @@
         "link": "https://www.nhs.uk/medicines/betahistine/",
         "brandNames": [
             "Serc"
+        ],
+        "relatedConditions": [
+            "Hearing loss",
+            "Ménière's disease",
+            "Tinnitus",
+            "Vertigo"
         ]
     },
     "Betamethasone for eyes, ears and nose": {
@@ -178,6 +319,10 @@
         "brandNames": [
             "Betnesol",
             "Vistamethasone"
+        ],
+        "relatedConditions": [
+            "Allergic rhinitis",
+            "Hay fever"
         ]
     },
     "Betamethasone for skin": {
@@ -185,15 +330,27 @@
         "brandNames": [
             "Betnovate",
             "Betacap"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Contact dermatitis",
+            "Psoriasis"
         ]
     },
     "Bimatoprost (Lumigan)": {
-        "link": "https://www.nhs.uk/medicines/bimatoprost/"
+        "link": "https://www.nhs.uk/medicines/bimatoprost/",
+        "relatedConditions": [
+            "Glaucoma"
+        ]
     },
     "Bisacodyl": {
         "link": "https://www.nhs.uk/medicines/bisacodyl/",
         "brandNames": [
             "Dulcolax"
+        ],
+        "relatedConditions": [
+            "Constipation",
+            "Constipation in children"
         ]
     },
     "Bisoprolol": {
@@ -201,12 +358,22 @@
         "brandNames": [
             "Cardicor",
             "Congescor"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Atrial fibrillation",
+            "Heart attack",
+            "Heart failure",
+            "High blood pressure (hypertension)"
         ]
     },
     "Brinzolamide": {
         "link": "https://www.nhs.uk/medicines/brinzolamide/",
         "brandNames": [
             "Azopt"
+        ],
+        "relatedConditions": [
+            "Glaucoma"
         ]
     },
     "Budesonide inhalers": {
@@ -214,12 +381,21 @@
         "brandNames": [
             "Pulmicort",
             "Budelin"
+        ],
+        "relatedConditions": [
+            "Asthma",
+            "Chronic obstructive pulmonary disease (COPD)"
         ]
     },
     "Budesonide nasal spray": {
         "link": "https://www.nhs.uk/medicines/budesonide-nasal-spray/",
         "brandNames": [
             "Benacort"
+        ],
+        "relatedConditions": [
+            "Allergic rhinitis",
+            "Hay fever",
+            "Nasal polyps"
         ]
     },
     "Budesonide rectal foam and enemas": {
@@ -227,10 +403,17 @@
         "brandNames": [
             "Budenofalk",
             "Entocort"
+        ],
+        "relatedConditions": [
+            "Ulcerative colitis"
         ]
     },
     "Bumetanide": {
-        "link": "https://www.nhs.uk/medicines/bumetanide/"
+        "link": "https://www.nhs.uk/medicines/bumetanide/",
+        "relatedConditions": [
+            "Heart failure",
+            "Swollen ankles, feet and legs (oedema)"
+        ]
     },
     "Buprenorphine for pain": {
         "link": "https://www.nhs.uk/medicines/buprenorphine-for-pain/",
@@ -240,21 +423,38 @@
             "Espranor",
             "Suboxone",
             "Subutex"
+        ],
+        "relatedConditions": [
+            "Cancer"
         ]
     },
     "Buscopan (hyoscine butylbromide)": {
-        "link": "https://www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/"
+        "link": "https://www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/",
+        "relatedConditions": [
+            "Irritable bowel syndrome (IBS)",
+            "Period pain",
+            "Stomach ache"
+        ]
     },
     "Calcipotriol": {
         "link": "https://www.nhs.uk/medicines/calcipotriol/",
         "brandNames": [
             "Dovonex"
+        ],
+        "relatedConditions": [
+            "Psoriasis"
         ]
     },
     "Candesartan": {
         "link": "https://www.nhs.uk/medicines/candesartan/",
         "brandNames": [
             "Amias"
+        ],
+        "relatedConditions": [
+            "Heart attack",
+            "Heart failure",
+            "High blood pressure (hypertension)",
+            "Stroke"
         ]
     },
     "Carbamazepine": {
@@ -262,15 +462,28 @@
         "brandNames": [
             "Tegretol",
             "Curatil"
+        ],
+        "relatedConditions": [
+            "Bipolar disorder",
+            "Epilepsy",
+            "Peripheral neuropathy",
+            "Trigeminal neuralgia"
         ]
     },
     "Carbimazole": {
-        "link": "https://www.nhs.uk/medicines/carbimazole/"
+        "link": "https://www.nhs.uk/medicines/carbimazole/",
+        "relatedConditions": [
+            "Overactive thyroid (hyperthyroidism)"
+        ]
     },
     "Carbocisteine": {
         "link": "https://www.nhs.uk/medicines/carbocisteine/",
         "brandNames": [
             "Mucodyne"
+        ],
+        "relatedConditions": [
+            "Chronic obstructive pulmonary disease (COPD)",
+            "Cystic fibrosis"
         ]
     },
     "Carmellose sodium eye drops": {
@@ -279,15 +492,34 @@
             "Celluvisc",
             "Carmize",
             "Optive"
+        ],
+        "relatedConditions": [
+            "Dry eyes",
+            "Blepharitis",
+            "Rheumatoid arthritis",
+            "Sjögren's syndrome",
+            "Lupus"
         ]
     },
     "Carvedilol": {
-        "link": "https://www.nhs.uk/medicines/carvedilol/"
+        "link": "https://www.nhs.uk/medicines/carvedilol/",
+        "relatedConditions": [
+            "Angina",
+            "Heart attack",
+            "Heart failure",
+            "High blood pressure (hypertension)",
+            "Stroke"
+        ]
     },
     "Cefalexin": {
         "link": "https://www.nhs.uk/medicines/cefalexin/",
         "brandNames": [
             "Keflex"
+        ],
+        "relatedConditions": [
+            "Chest infection",
+            "Pneumonia",
+            "Urinary tract infections (UTIs)"
         ]
     },
     "Cetirizine": {
@@ -297,12 +529,23 @@
             "Benadryl Allergy",
             "Piriteze Allergy",
             "Zirtek Allergy"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Conjunctivitis",
+            "Food allergy",
+            "Hay fever",
+            "Hives"
         ]
     },
     "Chloramphenicol": {
         "link": "https://www.nhs.uk/medicines/chloramphenicol/",
         "brandNames": [
             "Optrex Bacterial Conjunctivitis Eye Ointment"
+        ],
+        "relatedConditions": [
+            "Conjunctivitis",
+            "Ear infections"
         ]
     },
     "Chlorhexidine": {
@@ -313,6 +556,11 @@
             "Dermol",
             "Germolene",
             "Savlon"
+        ],
+        "relatedConditions": [
+            "Mouth ulcers",
+            "Gum disease",
+            "Sore throat"
         ]
     },
     "Chlorphenamine (Piriton)": {
@@ -320,12 +568,27 @@
         "brandNames": [
             "Allerief",
             "Pollenase"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Chickenpox",
+            "Conjunctivitis",
+            "Food allergy",
+            "Hay fever",
+            "Hives",
+            "Insect bites and stings"
         ]
     },
     "Cinnarizine": {
         "link": "https://www.nhs.uk/medicines/cinnarizine/",
         "brandNames": [
             "Stugeron"
+        ],
+        "relatedConditions": [
+            "Ménière's disease",
+            "Motion sickness",
+            "Tinnitus",
+            "Vertigo"
         ]
     },
     "Ciprofloxacin": {
@@ -334,10 +597,21 @@
             "Ciproxin",
             "Ciloxan",
             "Cetraxal"
+        ],
+        "relatedConditions": [
+            "Urinary tract infections (UTIs)",
+            "Chest infection",
+            "Conjunctivitis",
+            "Pneumonia",
+            "Sexually transmitted infections (STIs)"
         ]
     },
     "Citalopram": {
-        "link": "https://www.nhs.uk/medicines/citalopram/"
+        "link": "https://www.nhs.uk/medicines/citalopram/",
+        "relatedConditions": [
+            "Clinical depression",
+            "Panic disorder"
+        ]
     },
     "Clarithromycin": {
         "link": "https://www.nhs.uk/medicines/clarithromycin/",
@@ -345,6 +619,12 @@
             "Klaricid",
             "Klaricid XL",
             "Xetinin XL"
+        ],
+        "relatedConditions": [
+            "Cellulitis",
+            "Chest infection",
+            "Ear infections",
+            "Stomach ulcer"
         ]
     },
     "Clobetasol": {
@@ -353,6 +633,12 @@
             "Dermovate",
             "ClobaDerm",
             "Etrivex"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Contact dermatitis",
+            "Psoriasis",
+            "Lichen planus"
         ]
     },
     "Clobetasone": {
@@ -360,15 +646,32 @@
         "brandNames": [
             "Eumovate",
             "Clobavate"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Contact dermatitis",
+            "Insect bites and stings",
+            "Nappy rash",
+            "Psoriasis"
         ]
     },
     "Clonazepam": {
-        "link": "https://www.nhs.uk/medicines/clonazepam/"
+        "link": "https://www.nhs.uk/medicines/clonazepam/",
+        "relatedConditions": [
+            "Epilepsy",
+            "Panic disorder",
+            "Restless legs syndrome"
+        ]
     },
     "Clonidine": {
         "link": "https://www.nhs.uk/medicines/clonidine/",
         "brandNames": [
             "Catapres"
+        ],
+        "relatedConditions": [
+            "High blood pressure (hypertension)",
+            "Migraine",
+            "Menopause"
         ]
     },
     "Clopidogrel": {
@@ -376,30 +679,55 @@
         "brandNames": [
             "Grepid",
             "Plavix"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Heart attack",
+            "Stroke",
+            "Transient ischaemic attack (TIA)"
         ]
     },
     "Clotrimazole cream, spray and solution": {
         "link": "https://www.nhs.uk/medicines/clotrimazole/",
         "brandNames": [
             "Canesten"
+        ],
+        "relatedConditions": [
+            "Athlete's foot",
+            "Ringworm",
+            "Fungal nail infection"
         ]
     },
     "Clotrimazole for thrush (Canesten)": {
         "link": "https://www.nhs.uk/medicines/clotrimazole-for-thrush/",
         "brandNames": [
             "Canesten"
+        ],
+        "relatedConditions": [
+            "Thrush in men and women"
         ]
     },
     "Co-amoxiclav": {
         "link": "https://www.nhs.uk/medicines/co-amoxiclav/",
         "brandNames": [
             "Augmentin"
+        ],
+        "relatedConditions": [
+            "Cellulitis",
+            "Dental abscess",
+            "Ear infections",
+            "Osteomyelitis",
+            "Sinusitis (sinus infection)",
+            "Urinary tract infections (UTIs)"
         ]
     },
     "Co-beneldopa": {
         "link": "https://www.nhs.uk/medicines/co-beneldopa/",
         "brandNames": [
             "Madopar"
+        ],
+        "relatedConditions": [
+            "Parkinson's disease"
         ]
     },
     "Co-careldopa": {
@@ -409,13 +737,26 @@
             "Caramet",
             "Apodespan",
             "Lecado"
+        ],
+        "relatedConditions": [
+            "Parkinson's disease"
         ]
     },
     "Co-codamol for adults": {
-        "link": "https://www.nhs.uk/medicines/co-codamol-for-adults/"
+        "link": "https://www.nhs.uk/medicines/co-codamol-for-adults/",
+        "relatedConditions": [
+            "Toothache",
+            "Period pain",
+            "Rheumatoid arthritis"
+        ]
     },
     "Co-codamol for children": {
-        "link": "https://www.nhs.uk/medicines/co-codamol-for-children/"
+        "link": "https://www.nhs.uk/medicines/co-codamol-for-children/",
+        "relatedConditions": [
+            "Headaches",
+            "Migraine",
+            "Toothache"
+        ]
     },
     "Co-dydramol": {
         "link": "https://www.nhs.uk/medicines/co-dydramol/",
@@ -423,13 +764,27 @@
             "Paramol",
             "Remedeine",
             "Remedeine Forte"
+        ],
+        "relatedConditions": [
+            "Headaches",
+            "Joint pain",
+            "Migraine",
+            "Period pain",
+            "Toothache"
         ]
     },
     "Codeine": {
-        "link": "https://www.nhs.uk/medicines/codeine/"
+        "link": "https://www.nhs.uk/medicines/codeine/",
+        "relatedConditions": [
+            "Diarrhoea and vomiting",
+            "10 ways to reduce pain"
+        ]
     },
     "Colchicine": {
-        "link": "https://www.nhs.uk/medicines/colchicine/"
+        "link": "https://www.nhs.uk/medicines/colchicine/",
+        "relatedConditions": [
+            "Gout"
+        ]
     },
     "Colecalciferol": {
         "link": "https://www.nhs.uk/medicines/colecalciferol/",
@@ -438,6 +793,12 @@
             "Desunin",
             "Stexerol",
             "Strivit"
+        ],
+        "relatedConditions": [
+            "Hip fracture",
+            "Menopause",
+            "Osteoporosis",
+            "Rickets and osteomalacia"
         ]
     },
     "Continuous combined hormone replacement therapy (HRT) tablets, capsules and patches": {
@@ -448,6 +809,12 @@
             "Kliofem",
             "Femoston Conti",
             "FemSeven Conti"
+        ],
+        "relatedConditions": [
+            "Early or premature menopause",
+            "Menopause",
+            "Night sweats",
+            "Osteoporosis"
         ]
     },
     "Contraceptive injections (medroxyprogesterone)": {
@@ -461,18 +828,33 @@
         "link": "https://www.nhs.uk/medicines/cyanocobalamin/",
         "brandNames": [
             "Orobalin"
+        ],
+        "relatedConditions": [
+            "Vitamin B12 or folate deficiency anaemia"
         ]
     },
     "Cyclizine": {
         "link": "https://www.nhs.uk/medicines/cyclizine/",
         "brandNames": [
             "Valoid"
+        ],
+        "relatedConditions": [
+            "Ménière's disease",
+            "Motion sickness",
+            "Vertigo",
+            "Vomiting and morning sickness in pregnancy"
         ]
     },
     "Dapagliflozin": {
         "link": "https://www.nhs.uk/medicines/dapagliflozin/",
         "brandNames": [
             "Forxiga"
+        ],
+        "relatedConditions": [
+            "Chronic kidney disease",
+            "Heart failure",
+            "Hyperglycaemia",
+            "Type 2 diabetes"
         ]
     },
     "Decongestants": {
@@ -485,6 +867,12 @@
             "Dropodex",
             "Eythalm",
             "Maxidex"
+        ],
+        "relatedConditions": [
+            "Age-related cataracts",
+            "Conjunctivitis",
+            "Allergies",
+            "Eye injuries"
         ]
     },
     "Dexamethasone tablets and liquid": {
@@ -493,6 +881,12 @@
             "Neofordex",
             "Glensoludex",
             "Martapan"
+        ],
+        "relatedConditions": [
+            "Croup",
+            "Lupus",
+            "Rheumatoid arthritis",
+            "End of life care"
         ]
     },
     "Diazepam": {
@@ -502,6 +896,11 @@
             "Stesolid Rectal Tubes",
             "Diazepam Rectubes",
             "Diazepam Desitin"
+        ],
+        "relatedConditions": [
+            "Epilepsy",
+            "Generalised anxiety disorder in adults",
+            "Insomnia"
         ]
     },
     "Diclofenac": {
@@ -512,12 +911,24 @@
             "Diclomax",
             "Econac",
             "Motifene"
+        ],
+        "relatedConditions": [
+            "Ankylosing spondylitis",
+            "Gout",
+            "Migraine",
+            "Osteoarthritis",
+            "Rheumatoid arthritis"
         ]
     },
     "Digoxin": {
         "link": "https://www.nhs.uk/medicines/digoxin/",
         "brandNames": [
             "Lanoxin"
+        ],
+        "relatedConditions": [
+            "Arrhythmia",
+            "Atrial fibrillation",
+            "Heart failure"
         ]
     },
     "Dihydrocodeine": {
@@ -525,6 +936,12 @@
         "brandNames": [
             "DHC Continus",
             "DF118 Forte"
+        ],
+        "relatedConditions": [
+            "Joint pain",
+            "Osteoarthritis",
+            "Rheumatoid arthritis",
+            "Sciatica"
         ]
     },
     "Diltiazem": {
@@ -535,6 +952,15 @@
             "Tildiem",
             "Viazem",
             "Zemtard"
+        ],
+        "relatedConditions": [
+            "Anal fissure",
+            "Angina",
+            "High blood pressure (hypertension)",
+            "Coronary heart disease",
+            "Heart attack",
+            "Stroke",
+            "Raynaud's phenomenon"
         ]
     },
     "Diphenhydramine": {
@@ -543,12 +969,24 @@
             "Nytol Original",
             "Boots Sleepeaze",
             "Histergan"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Contact dermatitis",
+            "Hay fever",
+            "Hives",
+            "Insect bites and stings",
+            "Insomnia"
         ]
     },
     "Dipyridamole": {
         "link": "https://www.nhs.uk/medicines/dipyridamole/",
         "brandNames": [
             "Attia"
+        ],
+        "relatedConditions": [
+            "Stroke",
+            "Transient ischaemic attack (TIA)"
         ]
     },
     "Docusate": {
@@ -558,12 +996,19 @@
             "Dioctyl",
             "Docusol",
             "Norgalax"
+        ],
+        "relatedConditions": [
+            "Constipation",
+            "Constipation in children"
         ]
     },
     "Domperidone": {
         "link": "https://www.nhs.uk/medicines/domperidone/",
         "brandNames": [
             "Motilium"
+        ],
+        "relatedConditions": [
+            "Feeling sick (nausea)"
         ]
     },
     "Donepezil": {
@@ -571,6 +1016,11 @@
         "brandNames": [
             "Aricept",
             "Aricept Evess"
+        ],
+        "relatedConditions": [
+            "Alzheimer's disease",
+            "Dementia with Lewy bodies",
+            "Parkinson's disease"
         ]
     },
     "Doxazosin": {
@@ -581,6 +1031,10 @@
             "Larbex",
             "Raporsin",
             "Slocin"
+        ],
+        "relatedConditions": [
+            "Benign prostate enlargement",
+            "High blood pressure (hypertension)"
         ]
     },
     "Doxycycline": {
@@ -596,30 +1050,56 @@
         "brandNames": [
             "Cymbalta",
             "Yentreve"
+        ],
+        "relatedConditions": [
+            "Clinical depression",
+            "Fibromyalgia",
+            "Generalised anxiety disorder in adults",
+            "Urinary incontinence"
         ]
     },
     "Edoxaban": {
         "link": "https://www.nhs.uk/medicines/edoxaban/",
         "brandNames": [
             "Lixiana"
+        ],
+        "relatedConditions": [
+            "Atrial fibrillation",
+            "DVT (deep vein thrombosis)",
+            "Heart attack",
+            "Pulmonary embolism",
+            "Stroke"
         ]
     },
     "Empagliflozin": {
         "link": "https://www.nhs.uk/medicines/empagliflozin/",
         "brandNames": [
             "Jardiance"
+        ],
+        "relatedConditions": [
+            "Chronic kidney disease",
+            "Heart failure",
+            "High blood sugar (hyperglycaemia)",
+            "Type 2 diabetes"
         ]
     },
     "Enalapril": {
         "link": "https://www.nhs.uk/medicines/enalapril/",
         "brandNames": [
             "Innovace"
+        ],
+        "relatedConditions": [
+            "Heart failure",
+            "High blood pressure (hypertension)"
         ]
     },
     "Eplerenone": {
         "link": "https://www.nhs.uk/medicines/eplerenone/",
         "brandNames": [
             "Inspra"
+        ],
+        "relatedConditions": [
+            "Heart failure"
         ]
     },
     "Erythromycin": {
@@ -630,12 +1110,21 @@
             "Erymax",
             "Erythroped A",
             "Tiloryth"
+        ],
+        "relatedConditions": [
+            "Acne",
+            "Rosacea",
+            "Ear infections",
+            "Sexually transmitted infections (STIs)"
         ]
     },
     "Escitalopram": {
         "link": "https://www.nhs.uk/medicines/escitalopram/",
         "brandNames": [
             "Cipralex"
+        ],
+        "relatedConditions": [
+            "Panic disorder"
         ]
     },
     "Esomeprazole": {
@@ -645,12 +1134,20 @@
             "Nexium Control",
             "Emozul",
             "Guardium Acid Reflux Control and Ventra"
+        ],
+        "relatedConditions": [
+            "Heartburn and acid reflux",
+            "Indigestion",
+            "Stomach ulcer"
         ]
     },
     "Ezetimibe": {
         "link": "https://www.nhs.uk/medicines/ezetimibe/",
         "brandNames": [
             "Ezetrol"
+        ],
+        "relatedConditions": [
+            "High cholesterol"
         ]
     },
     "Felodipine": {
@@ -663,6 +1160,12 @@
             "Vascalpha",
             "Neofel",
             "Parmid"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Heart attack",
+            "High blood pressure (hypertension)",
+            "Stroke"
         ]
     },
     "Fentanyl": {
@@ -673,12 +1176,19 @@
         "brandNames": [
             "Fersamal",
             "Galfer"
+        ],
+        "relatedConditions": [
+            "Iron deficiency anaemia",
+            "Vitamins and minerals"
         ]
     },
     "Ferrous sulfate": {
         "link": "https://www.nhs.uk/medicines/ferrous-sulfate/",
         "brandNames": [
             "Ironorm Drops"
+        ],
+        "relatedConditions": [
+            "Iron deficiency anaemia"
         ]
     },
     "Fexofenadine": {
@@ -689,13 +1199,31 @@
             "Histallay",
             "Telfast",
             "Treathay"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Conjunctivitis",
+            "Food allergy",
+            "Hay fever",
+            "Hives",
+            "Insect bites and stings"
         ]
     },
     "Finasteride": {
-        "link": "https://www.nhs.uk/medicines/finasteride/"
+        "link": "https://www.nhs.uk/medicines/finasteride/",
+        "relatedConditions": [
+            "Benign prostate enlargement",
+            "Hair loss"
+        ]
     },
     "Flucloxacillin": {
-        "link": "https://www.nhs.uk/medicines/flucloxacillin/"
+        "link": "https://www.nhs.uk/medicines/flucloxacillin/",
+        "relatedConditions": [
+            "Chest infection",
+            "Ear infections",
+            "Osteomyelitis",
+            "Pneumonia"
+        ]
     },
     "Fluconazole": {
         "link": "https://www.nhs.uk/medicines/fluconazole/",
@@ -703,18 +1231,31 @@
             "Azocan",
             "Diflucan",
             "Canesten Thrush Oral Capsules"
+        ],
+        "relatedConditions": [
+            "Thrush in men and women",
+            "Oral thrush (mouth thrush)"
         ]
     },
     "Fluoxetine (Prozac)": {
         "link": "https://www.nhs.uk/medicines/fluoxetine-prozac/",
         "brandNames": [
             "Prozac"
+        ],
+        "relatedConditions": [
+            "Bulimia",
+            "Clinical depression",
+            "Obsessive compulsive disorder (OCD)"
         ]
     },
     "Fluticasone inhalers": {
         "link": "https://www.nhs.uk/medicines/fluticasone-inhalers/",
         "brandNames": [
             "Flixotide"
+        ],
+        "relatedConditions": [
+            "Asthma",
+            "Chronic obstructive pulmonary disease (COPD)"
         ]
     },
     "Fluticasone nasal spray and drops": {
@@ -723,12 +1264,23 @@
             "Flixonase",
             "Avamys",
             "Nasofan"
+        ],
+        "relatedConditions": [
+            "Allergic rhinitis",
+            "Hay fever",
+            "Nasal polyps"
         ]
     },
     "Fluticasone skin creams": {
         "link": "https://www.nhs.uk/medicines/fluticasone-skin-creams/",
         "brandNames": [
             "Cutivate"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Contact dermatitis",
+            "Lichen planus",
+            "Psoriasis"
         ]
     },
     "Folic acid": {
@@ -736,6 +1288,10 @@
         "brandNames": [
             "Preconceive",
             "Lexpec"
+        ],
+        "relatedConditions": [
+            "Vitamin B12 or folate deficiency anaemia",
+            "Pregnancy"
         ]
     },
     "Furosemide": {
@@ -743,6 +1299,11 @@
         "brandNames": [
             "Frusol",
             "Diuresal"
+        ],
+        "relatedConditions": [
+            "Heart failure",
+            "High blood pressure (hypertension)",
+            "Swollen ankles, feet and legs (oedema)"
         ]
     },
     "Fusidic acid": {
@@ -750,22 +1311,44 @@
         "brandNames": [
             "Fucithalmic",
             "Fucidin"
+        ],
+        "relatedConditions": [
+            "Cellulitis",
+            "Conjunctivitis",
+            "Impetigo"
         ]
     },
     "Fybogel (ispaghula husk)": {
         "link": "https://www.nhs.uk/medicines/fybogel-ispaghula-husk/",
         "brandNames": [
             "Ispagel"
+        ],
+        "relatedConditions": [
+            "Constipation",
+            "Constipation in children",
+            "Diverticular disease and diverticulitis",
+            "Irritable bowel syndrome (IBS)",
+            "Ulcerative colitis"
         ]
     },
     "Gabapentin": {
         "link": "https://www.nhs.uk/medicines/gabapentin/",
         "brandNames": [
             "Neurontin"
+        ],
+        "relatedConditions": [
+            "Diabetes",
+            "Epilepsy",
+            "Peripheral neuropathy",
+            "Post-herpetic neuralgia"
         ]
     },
     "Gaviscon": {
-        "link": "https://www.nhs.uk/medicines/gaviscon/"
+        "link": "https://www.nhs.uk/medicines/gaviscon/",
+        "relatedConditions": [
+            "Heartburn and acid reflux",
+            "Indigestion"
+        ]
     },
     "Gliclazide": {
         "link": "https://www.nhs.uk/medicines/gliclazide/",
@@ -779,6 +1362,10 @@
             "Nazdol",
             "Vamju",
             "Ziclaseg and Zicron"
+        ],
+        "relatedConditions": [
+            "Hyperglycaemia (high blood sugar)",
+            "Type 2 diabetes"
         ]
     },
     "Glyceryl trinitrate (GTN)": {
@@ -787,6 +1374,10 @@
             "Rectogesic",
             "Minitran",
             "Glytrin"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Anal fissure"
         ]
     },
     "Haloperidol": {
@@ -794,6 +1385,12 @@
         "brandNames": [
             "Haldol",
             "Serenace"
+        ],
+        "relatedConditions": [
+            "Bipolar disorder",
+            "Feeling sick (nausea)",
+            "Schizophrenia",
+            "Tourette's syndrome"
         ]
     },
     "Hormone replacement therapy (HRT)": {
@@ -806,6 +1403,9 @@
         "link": "https://www.nhs.uk/medicines/hydrocortisone-buccal-tablets/",
         "brandNames": [
             "Corlan"
+        ],
+        "relatedConditions": [
+            "Mouth ulcers"
         ]
     },
     "Hydrocortisone for piles and itchy bottom": {
@@ -816,6 +1416,11 @@
             "Proctosedyl",
             "Uniroid",
             "Xyloproct"
+        ],
+        "relatedConditions": [
+            "Itchy bottom",
+            "Piles (haemorrhoids)",
+            "Piles in pregnancy"
         ]
     },
     "Hydrocortisone for skin": {
@@ -826,16 +1431,28 @@
         ]
     },
     "Hydrocortisone injections": {
-        "link": "https://www.nhs.uk/medicines/hydrocortisone-injections/"
+        "link": "https://www.nhs.uk/medicines/hydrocortisone-injections/",
+        "relatedConditions": [
+            "Arthritis",
+            "Bursitis",
+            "Osteoarthritis"
+        ]
     },
     "Hydrocortisone rectal foam": {
-        "link": "https://www.nhs.uk/medicines/hydrocortisone-rectal-foam/"
+        "link": "https://www.nhs.uk/medicines/hydrocortisone-rectal-foam/",
+        "relatedConditions": [
+            "Piles (haemorrhoids)",
+            "Ulcerative colitis"
+        ]
     },
     "Hydrocortisone tablets": {
         "link": "https://www.nhs.uk/medicines/hydrocortisone-tablets/",
         "brandNames": [
             "Plenadren",
             "Efmody"
+        ],
+        "relatedConditions": [
+            "Addison's disease"
         ]
     },
     "Hydroxocobalamin": {
@@ -843,12 +1460,23 @@
         "brandNames": [
             "Cobalin-H",
             "Neo-Cytamen"
+        ],
+        "relatedConditions": [
+            "Vitamin B12 or folate deficiency anaemia"
         ]
     },
     "Hydroxychloroquine": {
         "link": "https://www.nhs.uk/medicines/hydroxychloroquine/",
         "brandNames": [
             "Quinoric"
+        ],
+        "relatedConditions": [
+            "Arthritis",
+            "Lichen planus",
+            "Lupus",
+            "Rheumatoid arthritis",
+            "Sarcoidosis",
+            "Vasculitis"
         ]
     },
     "Hyoscine hydrobromide (Kwells and Joy-Rides)": {
@@ -857,12 +1485,24 @@
             "Kwells Kids",
             "Travel Calm",
             "Scopoderm"
+        ],
+        "relatedConditions": [
+            "Motion sickness"
         ]
     },
     "Ibuprofen and codeine": {
         "link": "https://www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/",
         "brandNames": [
             "Nurofen Plus"
+        ],
+        "relatedConditions": [
+            "Arthritis",
+            "Back pain",
+            "Headaches",
+            "Migraine",
+            "Period pain",
+            "Sprains and strains",
+            "Toothache"
         ]
     },
     "Ibuprofen for adults (Nurofen)": {
@@ -881,6 +1521,16 @@
             "Nurofen for Children",
             "Calprofen",
             "Brufen"
+        ],
+        "relatedConditions": [
+            "Colds, coughs and ear infections in children",
+            "Common cold",
+            "Ear infections",
+            "Headaches",
+            "High temperature (fever) in children",
+            "Sprains and strains",
+            "Teething",
+            "Toothache"
         ]
     },
     "Indapamide": {
@@ -891,6 +1541,10 @@
             "Rawel",
             "Tensaid",
             "Alkapamid"
+        ],
+        "relatedConditions": [
+            "High blood pressure (hypertension)",
+            "Heart failure"
         ]
     },
     "Insulin": {
@@ -910,6 +1564,10 @@
             "Monomil XL",
             "Elantan LA",
             "Isoket Retard"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Heart failure"
         ]
     },
     "Isotretinoin capsules (Roaccutane)": {
@@ -917,6 +1575,9 @@
         "brandNames": [
             "Rizuderm",
             "Reticutan"
+        ],
+        "relatedConditions": [
+            "Acne"
         ]
     },
     "Isotretinoin gel (Isotrex)": {
@@ -929,6 +1590,12 @@
             "Daktarin Intensiv",
             "Dandrazol",
             "Nizoral"
+        ],
+        "relatedConditions": [
+            "Athlete's foot",
+            "Dandruff",
+            "Fungal nail infection",
+            "Pityriasis versicolor"
         ]
     },
     "Lactulose": {
@@ -936,18 +1603,33 @@
         "brandNames": [
             "Duphalac",
             "Lactugal"
+        ],
+        "relatedConditions": [
+            "Constipation",
+            "Constipation in children",
+            "Liver disease"
         ]
     },
     "Lamotrigine": {
         "link": "https://www.nhs.uk/medicines/lamotrigine/",
         "brandNames": [
             "Lamictal"
+        ],
+        "relatedConditions": [
+            "Bipolar disorder",
+            "Epilepsy",
+            "Epilepsy and pregnancy"
         ]
     },
     "Lansoprazole": {
         "link": "https://www.nhs.uk/medicines/lansoprazole/",
         "brandNames": [
             "Zoton FasTabs"
+        ],
+        "relatedConditions": [
+            "Heartburn and acid reflux",
+            "Indigestion",
+            "Stomach ulcer"
         ]
     },
     "Latanoprost": {
@@ -955,6 +1637,9 @@
         "brandNames": [
             "Xalatan",
             "Monopost"
+        ],
+        "relatedConditions": [
+            "Glaucoma"
         ]
     },
     "Laxatives": {
@@ -967,12 +1652,21 @@
         "link": "https://www.nhs.uk/medicines/lercanidipine/",
         "brandNames": [
             "Zanidip"
+        ],
+        "relatedConditions": [
+            "Heart attack",
+            "High blood pressure (hypertension)",
+            "Stroke"
         ]
     },
     "Letrozole": {
         "link": "https://www.nhs.uk/medicines/letrozole/",
         "brandNames": [
             "Femara"
+        ],
+        "relatedConditions": [
+            "Breast cancer in women",
+            "Polycystic ovary syndrome"
         ]
     },
     "Levetiracetam": {
@@ -980,12 +1674,19 @@
         "brandNames": [
             "Keppra",
             "Desitrend"
+        ],
+        "relatedConditions": [
+            "Epilepsy",
+            "Epilepsy and pregnancy"
         ]
     },
     "Levothyroxine": {
         "link": "https://www.nhs.uk/medicines/levothyroxine/",
         "brandNames": [
             "Eltroxin"
+        ],
+        "relatedConditions": [
+            "Underactive thyroid (hypothyroidism)"
         ]
     },
     "Lidocaine skin cream": {
@@ -995,18 +1696,32 @@
             "EMLA",
             "LMX4",
             "Nulbia"
+        ],
+        "relatedConditions": [
+            "Blood tests",
+            "Local anaesthesia"
         ]
     },
     "Linagliptin": {
         "link": "https://www.nhs.uk/medicines/linagliptin/",
         "brandNames": [
             "Trajenta"
+        ],
+        "relatedConditions": [
+            "Type 2 diabetes"
         ]
     },
     "Lisinopril": {
         "link": "https://www.nhs.uk/medicines/lisinopril/",
         "brandNames": [
             "Zestril"
+        ],
+        "relatedConditions": [
+            "Diabetes",
+            "Heart attack",
+            "Heart failure",
+            "High blood pressure (hypertension)",
+            "Stroke"
         ]
     },
     "Lithium": {
@@ -1016,24 +1731,44 @@
             "Camcolit",
             "Liskonum",
             "Li-Liquid"
+        ],
+        "relatedConditions": [
+            "Bipolar disorder",
+            "Depression in adults"
         ]
     },
     "Loperamide (Imodium)": {
-        "link": "https://www.nhs.uk/medicines/loperamide/"
+        "link": "https://www.nhs.uk/medicines/loperamide/",
+        "relatedConditions": [
+            "Diarrhoea and vomiting",
+            "Irritable bowel syndrome (IBS)"
+        ]
     },
     "Loratadine (Clarityn)": {
-        "link": "https://www.nhs.uk/medicines/loratadine/"
+        "link": "https://www.nhs.uk/medicines/loratadine/",
+        "relatedConditions": []
     },
     "Lorazepam": {
         "link": "https://www.nhs.uk/medicines/lorazepam/",
         "brandNames": [
             "Ativan"
+        ],
+        "relatedConditions": [
+            "Anxiety disorders in children",
+            "Generalised anxiety disorder in adults",
+            "Insomnia",
+            "Social anxiety (social phobia)"
         ]
     },
     "Losartan": {
         "link": "https://www.nhs.uk/medicines/losartan/",
         "brandNames": [
             "Cozaar"
+        ],
+        "relatedConditions": [
+            "High blood pressure (hypertension)",
+            "Heart failure",
+            "Type 2 diabetes"
         ]
     },
     "Low-dose aspirin": {
@@ -1042,12 +1777,20 @@
             "Danamep",
             "Mandaprin",
             "Nu-Seals"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Heart attack",
+            "Stroke"
         ]
     },
     "Lymecycline": {
         "link": "https://www.nhs.uk/medicines/lymecycline/",
         "brandNames": [
             "Tetralysal 300"
+        ],
+        "relatedConditions": [
+            "Acne"
         ]
     },
     "Macrogol": {
@@ -1057,6 +1800,10 @@
             "Laxido",
             "CosmoCol",
             "Molaxole"
+        ],
+        "relatedConditions": [
+            "Constipation",
+            "Constipation in children"
         ]
     },
     "Mebendazole": {
@@ -1064,6 +1811,10 @@
         "brandNames": [
             "Ovex",
             "Vermox"
+        ],
+        "relatedConditions": [
+            "Threadworms",
+            "Worms in humans"
         ]
     },
     "Mebeverine": {
@@ -1072,6 +1823,9 @@
             "Colofac",
             "Colofac IBS",
             "Aurobeverine"
+        ],
+        "relatedConditions": [
+            "Irritable bowel syndrome (IBS)"
         ]
     },
     "Medical cannabis (and cannabis oils)": {
@@ -1082,6 +1836,13 @@
         "brandNames": [
             "Climanor",
             "Provera"
+        ],
+        "relatedConditions": [
+            "Endometriosis",
+            "Heavy periods",
+            "Menopause",
+            "Polycystic ovary syndrome",
+            "Prostate cancer"
         ]
     },
     "Melatonin": {
@@ -1092,6 +1853,9 @@
             "Ceyesto",
             "Slenyto",
             "Syncrodin"
+        ],
+        "relatedConditions": [
+            "Insomnia"
         ]
     },
     "Memantine": {
@@ -1100,6 +1864,11 @@
             "Ebixa",
             "Nemdatine",
             "Valios"
+        ],
+        "relatedConditions": [
+            "Alzheimer's disease",
+            "Dementia with Lewy bodies",
+            "Parkinson's disease"
         ]
     },
     "Mesalazine": {
@@ -1111,6 +1880,11 @@
             "Pentasa",
             "Salofalk",
             "Zintasa"
+        ],
+        "relatedConditions": [
+            "Crohn's disease",
+            "Inflammatory bowel disease",
+            "Ulcerative colitis"
         ]
     },
     "Metformin": {
@@ -1121,6 +1895,12 @@
             "Glucient",
             "Glucophage",
             "Metabet"
+        ],
+        "relatedConditions": [
+            "Chronic kidney disease",
+            "Gestational diabetes",
+            "Polycystic ovary syndrome",
+            "Type 2 diabetes"
         ]
     },
     "Methadone": {
@@ -1138,6 +1918,12 @@
             "Metoject",
             "Nordimet",
             "Zlatal"
+        ],
+        "relatedConditions": [
+            "Cancer",
+            "Crohn's disease",
+            "Psoriasis",
+            "Rheumatoid arthritis"
         ]
     },
     "Methylphenidate for adults": {
@@ -1148,6 +1934,10 @@
             "Delmosart",
             "Equasym",
             "Medikinet"
+        ],
+        "relatedConditions": [
+            "ADHD in adults",
+            "Narcolepsy"
         ]
     },
     "Methylphenidate for children": {
@@ -1158,16 +1948,30 @@
             "Medikinet",
             "Delmosart",
             "Equasym"
+        ],
+        "relatedConditions": [
+            "ADHD in children and young people"
         ]
     },
     "Metoclopramide": {
         "link": "https://www.nhs.uk/medicines/metoclopramide/",
         "brandNames": [
             "Maxolon"
+        ],
+        "relatedConditions": [
+            "Feeling sick (nausea)",
+            "Vomiting and morning sickness",
+            "Migraine"
         ]
     },
     "Metoprolol": {
-        "link": "https://www.nhs.uk/medicines/metoprolol/"
+        "link": "https://www.nhs.uk/medicines/metoprolol/",
+        "relatedConditions": [
+            "Angina",
+            "Arrhythmia",
+            "High blood pressure (hypertension)",
+            "Migraine"
+        ]
     },
     "Metronidazole": {
         "link": "https://www.nhs.uk/medicines/metronidazole/",
@@ -1182,27 +1986,50 @@
             "Vaginyl",
             "Zidoval",
             "Zyomet"
+        ],
+        "relatedConditions": [
+            "Bacterial vaginosis",
+            "Dental abscess",
+            "Gum disease",
+            "Pelvic inflammatory disease",
+            "Rosacea"
         ]
     },
     "Mirabegron": {
         "link": "https://www.nhs.uk/medicines/mirabegron/",
         "brandNames": [
             "Betmiga"
+        ],
+        "relatedConditions": [
+            "Urinary incontinence"
         ]
     },
     "Mirtazapine": {
-        "link": "https://www.nhs.uk/medicines/mirtazapine/"
+        "link": "https://www.nhs.uk/medicines/mirtazapine/",
+        "relatedConditions": [
+            "Generalised anxiety disorder in adults",
+            "Clinical depression",
+            "Panic disorder",
+            "Social anxiety (social phobia)"
+        ]
     },
     "Mometasone for skin": {
         "link": "https://www.nhs.uk/medicines/mometasone-for-skin/",
         "brandNames": [
             "Elocon"
+        ],
+        "relatedConditions": [
+            "Atopic eczema",
+            "Psoriasis"
         ]
     },
     "Mometasone inhalers": {
         "link": "https://www.nhs.uk/medicines/mometasone-inhaler/",
         "brandNames": [
             "Asmanex"
+        ],
+        "relatedConditions": [
+            "Asthma"
         ]
     },
     "Mometasone nasal spray": {
@@ -1210,12 +2037,21 @@
         "brandNames": [
             "Clarinaze",
             "Nasonex"
+        ],
+        "relatedConditions": [
+            "Allergic rhinitis",
+            "Hay fever"
         ]
     },
     "Montelukast": {
         "link": "https://www.nhs.uk/medicines/montelukast/",
         "brandNames": [
             "Singulair"
+        ],
+        "relatedConditions": [
+            "Asthma",
+            "Asthma attacks",
+            "Allergic rhinitis"
         ]
     },
     "Morphine": {
@@ -1227,6 +2063,10 @@
             "Morphgesic",
             "MXL",
             "Oramorph"
+        ],
+        "relatedConditions": [
+            "Cancer",
+            "End of life care"
         ]
     },
     "Naproxen": {
@@ -1234,18 +2074,32 @@
         "brandNames": [
             "Naprosyn",
             "Stirlescent"
+        ],
+        "relatedConditions": [
+            "Back pain",
+            "Gout",
+            "Osteoarthritis",
+            "Period pain",
+            "Rheumatoid arthritis"
         ]
     },
     "Nefopam": {
         "link": "https://www.nhs.uk/medicines/nefopam/",
         "brandNames": [
             "Acupan"
+        ],
+        "relatedConditions": [
+            "Joint pain",
+            "Sprains and strains"
         ]
     },
     "Nicorandil": {
         "link": "https://www.nhs.uk/medicines/nicorandil/",
         "brandNames": [
             "Ikorel"
+        ],
+        "relatedConditions": [
+            "Angina"
         ]
     },
     "Nifedipine": {
@@ -1256,6 +2110,13 @@
             "Coracten",
             "Fortipine",
             "Nifedipress"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Heart attack",
+            "High blood pressure (hypertension)",
+            "Stroke",
+            "Raynaud's"
         ]
     },
     "Nitrofurantoin": {
@@ -1265,10 +2126,19 @@
             "Furadantin",
             "Macrobid",
             "Macrodantin"
+        ],
+        "relatedConditions": [
+            "Cystitis",
+            "Kidney infection",
+            "Urinary tract infections (UTIs)"
         ]
     },
     "Nortriptyline": {
-        "link": "https://www.nhs.uk/medicines/nortriptyline/"
+        "link": "https://www.nhs.uk/medicines/nortriptyline/",
+        "relatedConditions": [
+            "Depression in adults",
+            "Peripheral neuropathy"
+        ]
     },
     "NSAIDs": {
         "link": "https://www.nhs.uk/medicines/nsaids/"
@@ -1277,6 +2147,9 @@
         "link": "https://www.nhs.uk/medicines/nystatin/",
         "brandNames": [
             "Nystan"
+        ],
+        "relatedConditions": [
+            "Oral thrush (mouth thrush)"
         ]
     },
     "Oestrogen tablets, patches, gel and spray": {
@@ -1288,12 +2161,22 @@
             "Lenzetto",
             "Estradot",
             "Progynova"
+        ],
+        "relatedConditions": [
+            "Early or premature menopause",
+            "Menopause",
+            "Night sweats",
+            "Osteoporosis"
         ]
     },
     "Olanzapine": {
         "link": "https://www.nhs.uk/medicines/olanzapine/",
         "brandNames": [
             "Zyprexa"
+        ],
+        "relatedConditions": [
+            "Bipolar disorder",
+            "Schizophrenia"
         ]
     },
     "Omeprazole": {
@@ -1310,6 +2193,9 @@
             "Aspire",
             "Ditropan",
             "Kentera"
+        ],
+        "relatedConditions": [
+            "Urinary incontinence"
         ]
     },
     "Oxycodone": {
@@ -1319,12 +2205,20 @@
             "Oxypro",
             "Longtec",
             "Shortec"
+        ],
+        "relatedConditions": [
+            "Pain"
         ]
     },
     "Pantoprazole": {
         "link": "https://www.nhs.uk/medicines/pantoprazole/",
         "brandNames": [
             "Pantoloc Control"
+        ],
+        "relatedConditions": [
+            "Heartburn and acid reflux",
+            "Indigestion",
+            "Stomach ulcer"
         ]
     },
     "Paracetamol for adults": {
@@ -1334,6 +2228,12 @@
             "Hedex",
             "Medinol",
             "Panadol"
+        ],
+        "relatedConditions": [
+            "Back pain",
+            "Headaches",
+            "Migraine",
+            "Stomach ache"
         ]
     },
     "Paracetamol for children (Calpol)": {
@@ -1346,6 +2246,13 @@
         "link": "https://www.nhs.uk/medicines/paroxetine/",
         "brandNames": [
             "Seroxat"
+        ],
+        "relatedConditions": [
+            "Clinical depression",
+            "Generalised anxiety disorder in adults",
+            "Obsessive compulsive disorder (OCD)",
+            "Panic disorder",
+            "Post-traumatic stress disorder (PTSD)"
         ]
     },
     "Peppermint oil": {
@@ -1357,31 +2264,62 @@
             "Colpermin",
             "Mintec",
             "PepperMinn"
+        ],
+        "relatedConditions": [
+            "Stomach ache",
+            "Irritable bowel syndrome (IBS)"
         ]
     },
     "Pepto-Bismol (bismuth subsalicylate)": {
         "link": "https://www.nhs.uk/medicines/pepto-bismol/",
         "brandNames": [
             "Pepti-Calm"
+        ],
+        "relatedConditions": [
+            "Diarrhoea and vomiting",
+            "Feeling sick (nausea)",
+            "Heartburn and acid reflux",
+            "Indigestion"
         ]
     },
     "Perindopril": {
         "link": "https://www.nhs.uk/medicines/perindopril/",
         "brandNames": [
             "Coversyl Arginine"
+        ],
+        "relatedConditions": [
+            "Heart attack",
+            "Heart failure",
+            "High blood pressure (hypertension)",
+            "Stroke"
         ]
     },
     "Phenoxymethylpenicillin": {
         "link": "https://www.nhs.uk/medicines/phenoxymethylpenicillin/",
         "brandNames": [
             "Penicillin V"
+        ],
+        "relatedConditions": [
+            "Chest infection",
+            "Ear infections",
+            "Spleen problems and spleen removal"
         ]
     },
     "Pravastatin": {
-        "link": "https://www.nhs.uk/medicines/pravastatin/"
+        "link": "https://www.nhs.uk/medicines/pravastatin/",
+        "relatedConditions": [
+            "High cholesterol",
+            "Cardiovascular disease",
+            "Heart attack",
+            "Stroke"
+        ]
     },
     "Pre-Exposure Prophylaxis (PrEP)": {
-        "link": "https://www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/"
+        "link": "https://www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/",
+        "relatedConditions": [
+            "HIV and AIDS",
+            "Hepatitis"
+        ]
     },
     "Prednisolone tablets and liquid": {
         "link": "https://www.nhs.uk/medicines/prednisolone/",
@@ -1390,6 +2328,10 @@
             "Deltastab",
             "Dilacort",
             "Pevanti"
+        ],
+        "relatedConditions": [
+            "Arthritis",
+            "Asthma"
         ]
     },
     "Pregabalin": {
@@ -1398,6 +2340,13 @@
             "Alzain",
             "Axalid",
             "Lyrica"
+        ],
+        "relatedConditions": [
+            "Epilepsy",
+            "Generalised anxiety disorder in adults",
+            "Diabetes",
+            "Peripheral neuropathy",
+            "Post-herpetic neuralgia"
         ]
     },
     "Prochlorperazine": {
@@ -1405,10 +2354,22 @@
         "brandNames": [
             "Stemetil",
             "Buccastem"
+        ],
+        "relatedConditions": [
+            "Feeling sick (nausea)",
+            "Ménière's disease",
+            "Motion sickness",
+            "Vertigo"
         ]
     },
     "Promethazine (Phenergan)": {
-        "link": "https://www.nhs.uk/medicines/promethazine/"
+        "link": "https://www.nhs.uk/medicines/promethazine/",
+        "relatedConditions": [
+            "Contact dermatitis",
+            "Hay fever",
+            "Hives",
+            "Motion sickness"
+        ]
     },
     "Propranolol": {
         "link": "https://www.nhs.uk/medicines/propranolol/",
@@ -1416,6 +2377,15 @@
             "Bedranol",
             "Beta-prograne",
             "Half Beta-prograne"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Anxiety, fear and panic",
+            "Heart rhythm problems (arrhythmia)",
+            "Heart attack",
+            "Heart failure",
+            "High blood pressure (hypertension)",
+            "Migraine"
         ]
     },
     "Pseudoephedrine (Sudafed)": {
@@ -1424,6 +2394,13 @@
             "Galpseud",
             "Boots Decongestant",
             "Care Decongestant"
+        ],
+        "relatedConditions": [
+            "Allergies",
+            "Common cold",
+            "Cough",
+            "Hay fever",
+            "Sinusitis (sinus infection)"
         ]
     },
     "Quetiapine": {
@@ -1434,24 +2411,53 @@
             "Seroquel",
             "Sondate",
             "Zaluron"
+        ],
+        "relatedConditions": [
+            "Bipolar disorder",
+            "Schizophrenia",
+            "Clinical depression"
         ]
     },
     "Ramipril": {
         "link": "https://www.nhs.uk/medicines/ramipril/",
         "brandNames": [
             "Tritace"
+        ],
+        "relatedConditions": [
+            "Heart attack",
+            "Heart failure",
+            "High blood pressure (hypertension)",
+            "Stroke"
         ]
     },
     "Ranitidine": {
-        "link": "https://www.nhs.uk/medicines/ranitidine/"
+        "link": "https://www.nhs.uk/medicines/ranitidine/",
+        "relatedConditions": [
+            "Heartburn and acid reflux",
+            "Indigestion",
+            "Stomach ulcer"
+        ]
     },
     "Risperidone": {
-        "link": "https://www.nhs.uk/medicines/risperidone/"
+        "link": "https://www.nhs.uk/medicines/risperidone/",
+        "relatedConditions": [
+            "Bipolar disorder",
+            "Depression in adults",
+            "Psychotic depression",
+            "Mental health"
+        ]
     },
     "Rivaroxaban": {
         "link": "https://www.nhs.uk/medicines/rivaroxaban/",
         "brandNames": [
             "Xarelto"
+        ],
+        "relatedConditions": [
+            "Atrial fibrillation",
+            "DVT (deep vein thrombosis)",
+            "Heart attack",
+            "Pulmonary embolism",
+            "Stroke"
         ]
     },
     "Ropinirole": {
@@ -1460,12 +2466,23 @@
             "Requip",
             "Ipinnia",
             "Repinex"
+        ],
+        "relatedConditions": [
+            "Parkinson's disease",
+            "Restless legs syndrome"
         ]
     },
     "Rosuvastatin": {
         "link": "https://www.nhs.uk/medicines/rosuvastatin/",
         "brandNames": [
             "Crestor"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Cardiovascular disease",
+            "Heart attack",
+            "High cholesterol",
+            "Stroke"
         ]
     },
     "Salbutamol inhalers": {
@@ -1479,12 +2496,21 @@
             "Salamol",
             "Easi-Breathe",
             "Salbulin"
+        ],
+        "relatedConditions": [
+            "Asthma",
+            "Chronic obstructive pulmonary disease (COPD)"
         ]
     },
     "Senna": {
         "link": "https://www.nhs.uk/medicines/senna/",
         "brandNames": [
             "Senokot"
+        ],
+        "relatedConditions": [
+            "Constipation",
+            "Constipation in children",
+            "Irritable bowel syndrome (IBS)"
         ]
     },
     "Sequential combined hormone replacement therapy (HRT) tablets and patches": {
@@ -1494,6 +2520,12 @@
             "Elleste Duet",
             "Femoston",
             "Novofem"
+        ],
+        "relatedConditions": [
+            "Early or premature menopause",
+            "Menopause",
+            "Night sweats",
+            "Osteoporosis"
         ]
     },
     "Sertraline": {
@@ -1510,6 +2542,12 @@
             "Nipatra",
             "Revatio",
             "Grandipam"
+        ],
+        "relatedConditions": [
+            "Ejaculation problems",
+            "Erectile dysfunction (impotence)",
+            "Priapism (painful erections)",
+            "Pulmonary hypertension"
         ]
     },
     "Simeticone": {
@@ -1519,6 +2557,11 @@
             "WindSetlers",
             "Infacol",
             "Dentinox Colic Drops"
+        ],
+        "relatedConditions": [
+            "Bloating",
+            "Colic",
+            "Farting (flatulence)"
         ]
     },
     "Simvastatin": {
@@ -1526,12 +2569,21 @@
         "brandNames": [
             "Zocor",
             "Simvador"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Cardiovascular disease",
+            "Heart attack",
+            "Stroke"
         ]
     },
     "Sitagliptin": {
         "link": "https://www.nhs.uk/medicines/sitagliptin/",
         "brandNames": [
             "Januvia"
+        ],
+        "relatedConditions": [
+            "Type 2 diabetes"
         ]
     },
     "Sodium valproate": {
@@ -1541,21 +2593,37 @@
             "Epilim",
             "Episenta",
             "Epival"
+        ],
+        "relatedConditions": [
+            "Bipolar disorder",
+            "Epilepsy",
+            "Migraine"
         ]
     },
     "Solifenacin": {
         "link": "https://www.nhs.uk/medicines/solifenacin/",
         "brandNames": [
             "Vesicare"
+        ],
+        "relatedConditions": [
+            "Urinary incontinence"
         ]
     },
     "Sotalol": {
-        "link": "https://www.nhs.uk/medicines/sotalol/"
+        "link": "https://www.nhs.uk/medicines/sotalol/",
+        "relatedConditions": [
+            "Atrial fibrillation",
+            "Heart rhythm problems (arrhythmia)"
+        ]
     },
     "Spironolactone": {
         "link": "https://www.nhs.uk/medicines/spironolactone/",
         "brandNames": [
             "Aldactone"
+        ],
+        "relatedConditions": [
+            "High blood pressure (hypertension)",
+            "Swollen ankles, feet and legs (oedema)"
         ]
     },
     "Statins": {
@@ -1568,7 +2636,13 @@
         "link": "https://www.nhs.uk/medicines/steroids/"
     },
     "Sulfasalazine": {
-        "link": "https://www.nhs.uk/medicines/sulfasalazine/"
+        "link": "https://www.nhs.uk/medicines/sulfasalazine/",
+        "relatedConditions": [
+            "Crohn's disease",
+            "Inflammatory bowel disease",
+            "Rheumatoid arthritis",
+            "Ulcerative colitis"
+        ]
     },
     "Sumatriptan": {
         "link": "https://www.nhs.uk/medicines/sumatriptan/",
@@ -1576,6 +2650,10 @@
             "Imigran",
             "Migraitan",
             "Boots Migraine Relief"
+        ],
+        "relatedConditions": [
+            "Cluster headaches",
+            "Migraine"
         ]
     },
     "Tadalafil": {
@@ -1583,6 +2661,12 @@
         "brandNames": [
             "Cialis",
             "Adcirca"
+        ],
+        "relatedConditions": [
+            "Benign prostate enlargement",
+            "Ejaculation problems",
+            "Erectile dysfunction (impotence)",
+            "Pulmonary hypertension"
         ]
     },
     "Tamsulosin": {
@@ -1593,6 +2677,11 @@
             "Flomaxtra XL",
             "Pamsvax XL",
             "Tabphyn MR"
+        ],
+        "relatedConditions": [
+            "Benign prostate enlargement",
+            "Prostatitis",
+            "Kidney stones"
         ]
     },
     "Terbinafine": {
@@ -1600,6 +2689,12 @@
         "brandNames": [
             "Lamisil",
             "Lamisil Once"
+        ],
+        "relatedConditions": [
+            "Athlete's foot",
+            "Fungal nail infection",
+            "Pityriasis versicolor",
+            "Ringworm"
         ]
     },
     "Thiamine (vitamin B1)": {
@@ -1610,18 +2705,31 @@
             "Athiam",
             "ThiaDose",
             "ThiamEss"
+        ],
+        "relatedConditions": [
+            "Maple syrup urine disease"
         ]
     },
     "Tibolone": {
         "link": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/tibolone/",
         "brandNames": [
             "Livial"
+        ],
+        "relatedConditions": [
+            "Early or premature menopause",
+            "Menopause",
+            "Night sweats",
+            "Osteoporosis"
         ]
     },
     "Ticagrelor": {
         "link": "https://www.nhs.uk/medicines/ticagrelor/",
         "brandNames": [
             "Brilique"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Heart attack"
         ]
     },
     "Timolol eye drops": {
@@ -1631,6 +2739,9 @@
             "Timoptol",
             "Timoptol LA",
             "Tiopex"
+        ],
+        "relatedConditions": [
+            "Glaucoma"
         ]
     },
     "Tiotropium inhalers": {
@@ -1639,6 +2750,10 @@
             "Braltus",
             "Spiriva",
             "Spiriva Respimat"
+        ],
+        "relatedConditions": [
+            "Asthma",
+            "Chronic obstructive pulmonary disease (COPD)"
         ]
     },
     "Tolterodine": {
@@ -1647,12 +2762,19 @@
             "Neditol",
             "Detrusitol",
             "Mariosea"
+        ],
+        "relatedConditions": [
+            "Urinary incontinence"
         ]
     },
     "Topiramate": {
         "link": "https://www.nhs.uk/medicines/topiramate/",
         "brandNames": [
             "Topamax"
+        ],
+        "relatedConditions": [
+            "Epilepsy",
+            "Migraine"
         ]
     },
     "Tramadol": {
@@ -1664,6 +2786,10 @@
             "Zamadol",
             "Tramulief",
             "Tramquel"
+        ],
+        "relatedConditions": [
+            "Back pain",
+            "Cancer"
         ]
     },
     "Tranexamic acid": {
@@ -1671,6 +2797,11 @@
         "brandNames": [
             "Cyklokapron",
             "Evana Heavy Period Relief"
+        ],
+        "relatedConditions": [
+            "Angioedema",
+            "Nosebleed",
+            "Heavy periods"
         ]
     },
     "Trastuzumab (Herceptin)": {
@@ -1681,12 +2812,23 @@
             "Ontruzant",
             "Trazimera",
             "Zercepac"
+        ],
+        "relatedConditions": [
+            "Breast cancer in women",
+            "Breast cancer in men",
+            "Oesophageal cancer",
+            "Stomach cancer"
         ]
     },
     "Trazodone": {
         "link": "https://www.nhs.uk/medicines/trazodone/",
         "brandNames": [
             "Molipaxin"
+        ],
+        "relatedConditions": [
+            "Clinical depression",
+            "Generalised anxiety disorder in adults",
+            "Social anxiety (social phobia)"
         ]
     },
     "Trimethoprim": {
@@ -1695,10 +2837,25 @@
             "Monotrim",
             "Minotrim",
             "Trimogal."
+        ],
+        "relatedConditions": [
+            "Acne",
+            "Chest infection",
+            "Cystitis",
+            "Kidney infection",
+            "Pneumonia",
+            "Respiratory tract infections (RTIs)",
+            "Urinary tract infections (UTIs)"
         ]
     },
     "Utrogestan (micronised progesterone)": {
-        "link": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/"
+        "link": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/",
+        "relatedConditions": [
+            "Early or premature menopause",
+            "Menopause",
+            "Night sweats",
+            "Osteoporosis"
+        ]
     },
     "Vaginal oestrogen": {
         "link": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/",
@@ -1708,6 +2865,11 @@
             "Ovesse",
             "Ovestin",
             "Vagirux"
+        ],
+        "relatedConditions": [
+            "Vaginal dryness",
+            "Menopause",
+            "Early or premature menopause"
         ]
     },
     "Valproic acid": {
@@ -1717,12 +2879,22 @@
             "Depakote",
             "Convulex",
             "Syonell"
+        ],
+        "relatedConditions": [
+            "Bipolar disorder",
+            "Epilepsy",
+            "Migraine"
         ]
     },
     "Valsartan": {
         "link": "https://www.nhs.uk/medicines/valsartan/",
         "brandNames": [
             "Diovan"
+        ],
+        "relatedConditions": [
+            "Heart attack",
+            "Heart failure",
+            "High blood pressure (hypertension)"
         ]
     },
     "Varenicline": {
@@ -1736,6 +2908,10 @@
             "Venlalix",
             "Efexor",
             "Venlablue"
+        ],
+        "relatedConditions": [
+            "Panic disorder",
+            "Social anxiety (social phobia)"
         ]
     },
     "Verapamil": {
@@ -1744,18 +2920,39 @@
             "Securon",
             "Verapress",
             "Vera-Til"
+        ],
+        "relatedConditions": [
+            "Angina",
+            "Cluster headaches",
+            "Coronary heart disease",
+            "Heart attack",
+            "Heart rhythm problems (arrhythmia)",
+            "High blood pressure",
+            "Stroke"
         ]
     },
     "Warfarin": {
-        "link": "https://www.nhs.uk/medicines/warfarin/"
+        "link": "https://www.nhs.uk/medicines/warfarin/",
+        "relatedConditions": [
+            "Atrial fibrillation",
+            "Heart attack",
+            "Pulmonary embolism",
+            "Stroke"
+        ]
     },
     "Zolpidem": {
-        "link": "https://www.nhs.uk/medicines/zolpidem/"
+        "link": "https://www.nhs.uk/medicines/zolpidem/",
+        "relatedConditions": [
+            "Insomnia"
+        ]
     },
     "Zopiclone": {
         "link": "https://www.nhs.uk/medicines/zopiclone/",
         "brandNames": [
             "Zimovane"
+        ],
+        "relatedConditions": [
+            "Insomnia"
         ]
     }
 }

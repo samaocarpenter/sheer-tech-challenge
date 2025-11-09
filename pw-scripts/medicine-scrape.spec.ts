@@ -6,7 +6,7 @@ import { writeFile } from "fs/promises";
 type MedicineInfo = {
   link: string;
   brandNames?: string[];
-  sideEffects?: string[];
+  relatedConditions?: string[];
 };
 
 test("Scrape medicine data", async ({ page }) => {
@@ -65,13 +65,31 @@ test("Scrape medicine data", async ({ page }) => {
 
       // attempts to pull out of string
       brandString = brandString.split(": ").at(-1) ?? "";
-      
+
       // removes leading punctuation and whitespace, which sometimes makes it in
-      brandString = brandString.replace(/^[^a-zA-Z0-9_]+/, '');
-      
+      brandString = brandString.replace(/^[^a-zA-Z0-9_]+/, "");
+
       if (brandString.length > 0) {
         medicines[medName].brandNames = brandString.split(", ");
       }
+    }
+
+    // next up, related conditions, which should be pretty straightforward
+    // similar situation where for some reason NHS uses two distinct section types
+    let conditionsSection = page.locator(".nhsuk-u-margin-top-6", {
+      hasText: "Related conditions",
+    });
+    if (!(await conditionsSection.isVisible())) {
+      conditionsSection = page.locator(".nhsuk-card", {
+        hasText: "Related conditions",
+      });
+    }
+    if (await conditionsSection.isVisible()) {
+      // only pull names, but links could be pulled too
+      const conditionsText = await conditionsSection
+        .getByRole("listitem")
+        .allInnerTexts();
+      medicines[medName].relatedConditions = conditionsText;
     }
   }
 
